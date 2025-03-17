@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".next"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "components"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "public"
+		}
+	],
+	"settings": {}
+}
